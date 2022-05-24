@@ -1,0 +1,7 @@
+20220518	19:40:47	d35cd1ff-f297-4533-99a2-8f46126c5771	TypeError: fsPromises.readFil is not a function
+20220518	22:52:20	a65a890a-773a-4e52-b2df-c95b2d6a081c	Error: Not allowed by CORS
+20220518	23:10:31	e6f45a64-8ccc-4a83-85df-288042d05a96	Error: Not allowed by CORS
+20220519	22:40:19	73adde71-c555-44b9-8a96-5ca10b0b6896	Error: Not allowed by CORS
+20220519	22:51:42	f53ba5ee-1700-416a-a8ed-4c1d94294b41	Error: Not allowed by CORS
+20220520	11:12:06	6ccff37f-81b2-41ac-b4dc-bda959b0425e	Error: Not allowed by CORS
+20220523	08:59:52	bbf48e22-f976-47ed-80a0-479d0a3399e1	ReferenceError: conseole is not defined
